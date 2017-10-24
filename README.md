@@ -28,11 +28,11 @@ I am just going throw the teams out here first:
 
 - **Team Todielina** - Todd Nakasato, Daniela Aguirre, Gina Kang
 - **Team Kinissa Dananna** - Daniel Risdon, Larissa Catalano, Anna Pack, Kin Lim
-- **Team J²R²** - Jon Ellsaesser, Rebekah Bae, JR Rene 
-- **Team Rohara Gleveline** - Yveline Say, Kiara Contreras, Rohtas Wadera, Glenn Friedman 
+- **Team J²R²** - Jon Ellsaesser, Rebekah Bae, JR Rene
+- **Team Rohara Gleveline** - Yveline Say, Kiara Contreras, Rohtas Wadera, Glenn Friedman
 
 
-## Technical Requirements
+## Requirements
 
 Your group must:
 
@@ -43,7 +43,7 @@ Your group must:
 - **Craft thoughtful user stories together**, as a team
 - **Create a project board** and use it to manage team workflow
 - **Manage team contributions and collaboration** using a standard git workflow on GitHub
-- **Designate one team member** to be in charge of managing team git workflow (the Git Dictator)
+- **Designate one team member** to be in charge of managing team git workflow (the Git Shepherd)
 - Layout and style your front-end with **clean & well-formatted CSS**
 - **Deploy your application online** so it's publicly accessible
 - **Auth**: A login/logout system
@@ -55,21 +55,21 @@ Your group must:
 
 ### For the APP:
 - A **team git org** with repositories for your API and your React APP hosted on Github with frequent commits from _every_ team member dating back to the _very beginning_ of the project
-- A **working API**, hosted on heroku
+- A **working API**, hosted on Heroku
 - A handmade front-end **that consumes your own API**, hosted on surge
 
 ### For the README:
-- A **link to your hosted working app** 
+- A **link to your hosted working app**
 - A **link to your Trello board**
 - Explanations of the **technologies** used
-- A couple of paragraphs about the **general approach you took**
+- A few paragraphs about the **general approach you took**
 - **Installation instructions** for any dependencies
 - Your **user stories** – who are your users, what do they want, and why?
 - Your **wireframes** – sketches of  views and interfaces in your application
 - Descriptions of any **unsolved problems** or **hurdles** your team had to overcome
 
 ### For your presentation:
-- **5 minutes:** A presentation deck _- Google Slides, Keynote, PowerPoint_
+- **5 minutes:** A presentation deck _- Google Slides, Keynote, or PowerPoint_
     - At least 5 slides
     - Use easy-to-understand language and avoid too much "technical" terminology
     - Include wireframes that shows your app
@@ -87,26 +87,26 @@ Your group must:
 |----------------------|-----------------------------------------------------------------------------------------------------------|
 | Tues 10/24           | Project prompt given. Work with group to think of your proposal.                                          |
 | Wed 10/25            | • Token Auth  <br>• Shark Tank. With your group, present your proposal to Tims, Varun and Jackie for approval |
-| Thurs 10/26          | • Optional React review  <br>• Project work time                                                              |
+| Thurs 10/26          | • Optional React review (9 AM) <br>• Project work time                                                              |
 | Fri 10/27            | • Project work time <br>• Happy Hour!                                                                         |
 | Sat 10/28 -<br>Sun 1029 | Project work time                                                                                         |
 | Mon 10/30            | • Deployment lesson <br>• Project work time <br>• **PROJECT DUE AT 11 PM**                                        |
 | Tues 10/31           | • **HALLOWEEN! GA Costume Competition!** <br>• Outcomes <br>• **PROJECT PRESENTATIONS** <br>• Happy Hour!   |
-    
-    
+
+
 ### Project Proposals: SHARK TANK ON 10/25! :calendar:
 
 __Your proposal should be a presentation including:__
 
 - Name of your app / project concept
 - [User stories](http://www.mariaemerson.com/user-stories/) that describe how your app will be used.
-- Wireframes!
+- Detailed and thought out wireframes.
 - A **timeline** laying out what each group member will do each day. This should specify clear features to be implemented by the end of each day.
 - Foreseen challenges or obstacles
 - Technology you intend to use:
     - API - Test it with Postman **TONIGHT**, before you present your proposal. Make sure you get the data you are looking for! [Useful resourse for public APIs](https://github.com/toddmotto/public-apis)
     - NPM package
-- Any other information that will help us understand your project! 
+- Any other information that will help us understand your project!
 
 **Also send us links to your:**
 
@@ -137,6 +137,12 @@ __Your proposal should be a presentation including:__
 - **Create a project board** that outlines what steps each member will need to take and the order you plan to take them in.
 - **Define a styleguide** with your team. What fonts will you use, what color schemes? Be consistent with the styling.
 - **Organize the project in terms of the directory structure etc.**
+
+## On Teamwork
+
+This a group project, which means that every member of each group needs to step up in order for the project to be successful. We suggest that you sit down as a group and lay out expectations of each individual as early as possible. We will examining the `git` commit history of project carefully as a way to understand who contributed and in what capacity. What you can do to help is commit often and make your commit messages descriptive.
+
+The short of it is to be a good team player and pull your weight. By doing so we avoid issues after the fact.
 
 ## A Note on Plagiarism
 
